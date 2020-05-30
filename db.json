@@ -10,20 +10,25 @@
     }
   ],
   "contact-details": {
-    "name": "name2",
-    "image": "image2",
-    "profile": "profile2",
-    "company": "company2",
+    "name": "Aditi Verma",
+    "image": "https://avatars3.githubusercontent.com/u/31961827?s=460&u=0c481d1b9728beb3404d6293b292863fffd32053&v=4",
+    "profile": "Digital Analyst",
+    "company": "MDL",
     "socialMediaProfiles": [
       {
-        "link": "link",
-        "icon": "icon",
-        "profile": "profile"
+        "link": "https://www.linkedin.com/in/aditiverma1009/",
+        "icon": "https://icons.iconarchive.com/icons/sicons/basic-round-social/512/linkedin-icon.png",
+        "profile": "LinkedIn"
       },
       {
-        "link": "link2",
-        "icon": "icon2",
-        "profile": "profile2"
+        "link": "https://www.instagram.com/coffee.bells/",
+        "icon": "https://pluspng.com/img-png/instagram-png-instagram-png-logo-1455.png",
+        "profile": "Instagram"
+      },
+      {
+        "link": "https://twitter.com/aditiverma1009",
+        "icon": "https://cdn2.iconfinder.com/data/icons/minimalism/512/twitter.png",
+        "profile": "Twitter"
       }
     ]
   }
