@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "demo"
+    },
+    {
+      "name": "demo2",
+      "id": 2
+    }
+  ],
+  "contact-details": {
+    "name": "name2",
+    "image": "image2",
+    "profile": "profile2",
+    "company": "company2",
+    "socialMediaProfiles": [
+      {
+        "link": "link",
+        "icon": "icon",
+        "profile": "profile"
+      },
+      {
+        "link": "link2",
+        "icon": "icon2",
+        "profile": "profile2"
+      }
+    ]
+  }
+}
